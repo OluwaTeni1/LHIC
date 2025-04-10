@@ -1247,7 +1247,7 @@ hr {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    transform: translateY(60%);
+    transform: translateY(50%);
   }
   .cont-left-content .address,
   .cont-left-content .phone,
