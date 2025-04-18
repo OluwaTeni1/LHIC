@@ -566,7 +566,7 @@ button.active {
 .f-bx {
   width: 100%;
   padding: 0 5px;
-  height: 500px;
+  height: 100%;
 }
 
 .f-img {
@@ -610,10 +610,10 @@ button.active {
 }
 
 .f-txt article {
-  font-size: 17px;
+  font-size: 16px;
   color: #333;
   font-weight: 400;
-  line-height: 22px;
+  line-height: 20px;
   text-align: justify;
 }
 /*-- banner --*/
